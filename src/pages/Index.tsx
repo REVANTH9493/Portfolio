@@ -45,7 +45,7 @@ const Index = () => {
     {
       title: 'DDR4 Subsystem for high speed memory access',
       description: 'Implemented a DDR4 memory controller using Verilog HDL for high-speed and efficient memory access, demonstrating understanding of computer architecture and hardware description languages.',
-      image: 'https://vajiram-prod.s3.ap-south-1.amazonaws.com/RISC_V_technology_a1263c7245.png',
+      image: 'https://external-preview.redd.it/kwRlAW75FOGMCxDN8dBT80zdkv5HwN3PibIWODD1Ig0.jpg?auto=webp&s=2b189078f6f4221877514aa029dca507db00adee',
       tags: ['VLSI', 'Verilog', 'Subsystem Design'],
       link: '#'
     },
