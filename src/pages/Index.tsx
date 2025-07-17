@@ -43,6 +43,13 @@ const Index = () => {
   // Projects data
   const projects = [
     {
+      title: 'DDR4 Subsystem for high speed memory access',
+      description: 'Implemented a DDR4 memory controller using Verilog HDL for high-speed and efficient memory access, demonstrating understanding of computer architecture and hardware description languages.',
+      image: 'https://vajiram-prod.s3.ap-south-1.amazonaws.com/RISC_V_technology_a1263c7245.png',
+      tags: ['VLSI', 'Verilog', 'Subsystem Design'],
+      link: '#'
+    },
+    {
       title: '3 Dimension Scanner',
       description: 'Developed a 3D scanner that can scan objects placed in its line of sight, creating detailed three-dimensional models for analysis and reproduction.',
       image: 'https://plus.unsplash.com/premium_photo-1715228482158-c911a17beca7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
