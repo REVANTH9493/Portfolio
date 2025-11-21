@@ -364,7 +364,7 @@ const Index = () => {
                 <a href="https://www.instagram.com/revanthnagidi?igsh=ZWNxMjhwZGY3d3Qw" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-navy flex items-center justify-center text-white hover:bg-teal transition-colors">
                   <Instagram className="w-5 h-5" />
                 </a>
-                <a href="https://www.linkedin.com/in/revanth-n-746086275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-navy flex items-center justify-center text-white hover:bg-teal transition-colors">
+                <a href="https://www.linkedin.com/in/revanth-nagidi-746086275/" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-navy flex items-center justify-center text-white hover:bg-teal transition-colors">
                   <Linkedin className="w-5 h-5" />
                 </a>
                 <a href="https://github.com/REVANTH9493" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-navy flex items-center justify-center text-white hover:bg-teal transition-colors">
