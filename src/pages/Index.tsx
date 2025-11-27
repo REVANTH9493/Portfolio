@@ -125,7 +125,7 @@ const Index = () => {
               </p>
               <div className="flex space-x-4">
               <a 
-                href="/Revanth_Resume.pdf" 
+                href="/Revanth Resume.pdf" 
                 download 
                 className="bg-teal hover:bg-teal/90 text-white px-6 py-2 rounded-full font-medium transition-colors"
               >
